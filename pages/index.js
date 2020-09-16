@@ -10,13 +10,13 @@ const Home = () => {
     {
       id: 1,
       task: "Get Styled components working with NextJS Get Styled components working with NextJS Get Styled components working with NextJS",
-      status: "incomplete",
+      isComplete: true,
       hours: 0
     },
     {
       id: 2,
       task: "Get NPM working again",
-      status: "incomplete",
+      isComplete: false,
       hours: 0
     }
   ])
